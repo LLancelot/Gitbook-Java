@@ -1,6 +1,4 @@
----
-description: 记录我的Java全栈学习。
----
+请直接访问GitBook网址：https://techlin.gitbook.io/java/
 
 # Java 全栈学习
 
@@ -29,4 +27,3 @@ description: 记录我的Java全栈学习。
 ### Spring
 
 更新中！见目录
-
