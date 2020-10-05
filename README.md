@@ -1,6 +1,8 @@
-请直接访问GitBook网址：https://techlin.gitbook.io/java/
-
 # Java 全栈学习
+
+请直接访问GitBook网址：[https://techlin.gitbook.io/java/](https://techlin.gitbook.io/java/)
+
+## Java 全栈学习
 
 ### JavaSE
 
@@ -27,3 +29,4 @@
 ### Spring
 
 更新中！见目录
+
