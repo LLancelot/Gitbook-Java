@@ -1,6 +1,6 @@
 # Java 全栈学习
 
-请直接访问GitBook网址：[https://techlin.gitbook.io/java/](https://techlin.gitbook.io/java/)
+网址：[https://techlin.gitbook.io/java/](https://techlin.gitbook.io/java/)
 
 ## Java 全栈学习
 
